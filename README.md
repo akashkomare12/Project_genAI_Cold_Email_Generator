@@ -7,4 +7,4 @@ Cold email generator for services company using groq, langchain and streamlit. I
 - Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 - CodeSpyder is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Akash) from CodeSpyder is going to reach out to Nike via a cold email.
 
-![image](https://github.com/user-attachments/assets/56105609-11be-4617-b47a-8ce030467fee)
+![image](https://github.com/user-attachments/assets/4737c2f0-9731-44fd-a0e8-7ba8aa139827)
