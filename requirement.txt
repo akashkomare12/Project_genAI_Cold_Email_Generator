@@ -1,0 +1,6 @@
+pandas==2.2.3  # For handling CSV files
+chromadb==0.5.15  # For managing the vector database
+streamlit==1.39.0  # For creating the Streamlit app
+langchain_community==0.3.2  # For the document loader in LangChain
+langchain-core==0.3.10  # For prompts and output parsers in LangChain
+python-dotenv==1.0.1  # For loading environment variables
